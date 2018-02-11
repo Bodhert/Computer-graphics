@@ -23,7 +23,7 @@ public class BresenhamLine extends JPanel {
 
     public static final int STEP = 45;
     public static final int STEPAxis = 90;
-    public static final int R = 200; // change it for prefered size
+    public static final int R = 100; // change it for prefered size
 
     public static int width;
     public static int height;
